@@ -1,2 +1,2 @@
-# javascript-DOM
+### javascript-DOM
 Document Object Model
