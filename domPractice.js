@@ -1,16 +1,16 @@
 // Examine the Document Model
  
-// console.log(document)
-// console.log(document.domain)
-// console.log(document.URL)
-// console.log(document.title)
-// console.log(document.doctype)
-// console.log(document.head)
-// console.log(document.body)
-// console.log(document.all)
-// console.log(document.forms)
-// console.log(document.links)
-// console.log(document.images)
+console.log(document)
+console.log(document.domain)
+console.log(document.URL)
+console.log(document.title)
+console.log(document.doctype)
+console.log(document.head)
+console.log(document.body)
+console.log(document.all)
+console.log(document.forms)
+console.log(document.links)
+console.log(document.images)
 
 /* Method to query the DOM 
 a. getelementbyid */
