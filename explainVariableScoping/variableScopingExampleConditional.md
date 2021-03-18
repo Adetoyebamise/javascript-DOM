@@ -17,12 +17,15 @@
  **Examples**
 >let numberGoe = 10
 
->if (true) {
-    let numberZoe = 34
-    var numberRoe = 35
-    console.log(numberGoe + numberZoe + numberRoe)
+> if (true) {
 
-}
+>    let numberZoe = 34
+
+>    var numberRoe = 35
+
+>    console.log(numberGoe + numberZoe + numberRoe)
+
+> }
 
 
 #### Reference
