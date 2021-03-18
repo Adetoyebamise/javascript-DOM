@@ -11,6 +11,16 @@
     can be referenced only in that function, so they are known as local variable.
 
  **Examples**
- 
+ >const football = {
+
+  >   brand : 'mitre'
+
+   >  type : '',
+
+    > radius : 7,
+    
+  >   madeOfMaterial : 'leather',
+
+ >}
 #### Reference
 Eloquent JavaScript
