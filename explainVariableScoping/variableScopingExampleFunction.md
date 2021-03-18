@@ -11,6 +11,18 @@
     can be referenced only in that function, so they are known as local variable.
 
  **Examples**
+ >var carName = "volvo"
+
+ > //code here can use carName
+
+ > function washCar () {
+     
+  > //code here can use carName
+    
+ >}
+
+ The above example is declaring variable globally.
+
 
  
 #### Reference
