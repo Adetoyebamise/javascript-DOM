@@ -19,3 +19,14 @@ button.addEventListener("click", once);
 </code>
 
 Each event has a type ( "keydown" , "focus" , and so on) that identifies it.
+
+An Event listener is a method added to a target, usually an element that listens for a specific event and then calls back a function when that event is detected
+
+**Syntax**
+    - target.addEventListener(target callback[,options]);
+
+    where;
+    target is the Event target
+    addEventListener is the addEventListener Method
+    callback is the callback function or function call
+    where the properties in the square bracket are typically 'false' or left blank.
