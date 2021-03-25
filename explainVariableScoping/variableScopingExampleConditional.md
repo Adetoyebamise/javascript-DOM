@@ -15,18 +15,19 @@
     after the loop cannot “see” it
 
  **Examples**
->let numberGoe = 10
+ ```
 
-> if (true) {
+  let numberGoe = 10
 
->    let numberZoe = 34
+    if (true) {
 
->    var numberRoe = 35
+    let numberZoe = 34
 
->    console.log(numberGoe + numberZoe + numberRoe)
+    var numberRoe = 35
 
-> }
-
+    console.log(numberGoe + numberZoe + numberRoe)
+  }
+```
 
 #### Reference
 Eloquent JavaScript
